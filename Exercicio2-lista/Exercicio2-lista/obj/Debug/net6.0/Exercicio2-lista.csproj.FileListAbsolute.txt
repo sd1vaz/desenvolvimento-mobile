@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\bin\Debug\net6.0\Exercicio2-lista.exe
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\bin\Debug\net6.0\Exercicio2-lista.deps.json
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\bin\Debug\net6.0\Exercicio2-lista.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\bin\Debug\net6.0\Exercicio2-lista.dll
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\bin\Debug\net6.0\Exercicio2-lista.pdb
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.dll
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\refint\Exercicio2-lista.dll
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.pdb
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\Exercicio2-lista.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Visual Projects\c#\Exercicio2-lista\Exercicio2-lista\obj\Debug\net6.0\ref\Exercicio2-lista.dll
