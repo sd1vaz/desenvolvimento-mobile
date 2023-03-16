@@ -11,6 +11,7 @@ namespace Exercicio_3
             Console.WriteLine("Digite as frutas separadas por virgula:");
             string input = Console.ReadLine();
             string[] frutasarray = input.Split(',');
+            
             foreach (string fruta in frutasarray)
             {
                 frutas.Add(fruta.Trim());
@@ -27,6 +28,7 @@ namespace Exercicio_3
             {
                 return string.Empty;
             }
+            if (!frutas.contains(fruta))
             char[] letters = fruta.ToCharArray();
             letters[0] = char.ToUpper(letters[0]);
             return new string(letters);
